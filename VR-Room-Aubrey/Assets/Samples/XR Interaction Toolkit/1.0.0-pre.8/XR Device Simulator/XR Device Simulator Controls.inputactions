@@ -63,7 +63,7 @@
                 },
                 {
                     "name": "Manipulate Head",
-                    "type": "Value",
+                    "type": "Button",
                     "id": "f5febf74-651b-4f73-8d0a-08b0acdabc4d",
                     "expectedControlType": "Button",
                     "processors": "",
@@ -396,9 +396,9 @@
                 {
                     "name": "",
                     "id": "3542472e-e883-407a-b967-5b879b2d7dc4",
-                    "path": "<Mouse>/press",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
-                    "processors": "Scale(factor=1000)",
+                    "processors": "",
                     "groups": "",
                     "action": "Manipulate Head",
                     "isComposite": false,
